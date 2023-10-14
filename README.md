@@ -10,4 +10,4 @@ You can just clone git repo and execute below commands:
 pip install -r requirements.txt
 python main.py
 ```
-Also you can use pyinstaller to package the app to *.exe file or to something else.
+Also you can use [pyinstaller](https://pypi.org/project/pyinstaller/) to package the app to *.exe file or to something else.
